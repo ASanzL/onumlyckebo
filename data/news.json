@@ -1,0 +1,65 @@
+{
+  "news":[
+     {
+      "title":"Valpar",
+      "content":[
+        {
+          "img":"IMG_20200524_180935.jpg",
+          "cap":"Nu har alla valpar blivit bokade."
+        }
+      ]
+    },
+     {
+      "title":"Valpar",
+      "content":[
+        {
+          "img":"valpar.jpg",
+          "cap":"Den 13:e april 2020, fick Bonita nio friska valpar, sex hanar och tre tikar."
+        },
+	{
+	  "img": "valp.jpg",
+	  "cap":""
+	}
+      ]
+    },
+    {
+      "title":"2017",
+      "content":[
+        {
+          "img":"thumbnail_IMG_0987.jpg",
+          "cap":""
+        }
+      ]
+    },
+    {
+      "title":"2017",
+      "content":[
+        {
+          "img":"IMG_0961-300x225.jpg",
+          "cap":""
+        },
+        {
+          "img":"thumbnail_IMG_0946.jpg",
+          "cap":""
+        },
+        {
+          "img":"IMG_0962-300x225.jpg",
+          "cap":""
+        },
+        {
+          "img":"thumbnail_IMG_0922.jpg",
+          "cap":""
+        }
+      ]
+    },
+    {
+      "title":"God jul",
+      "content":[
+        {
+          "img":"godjul.jpg",
+          "cap":""
+        }
+      ]
+    }
+  ]
+}
