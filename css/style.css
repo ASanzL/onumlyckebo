@@ -26,6 +26,10 @@ div.wrapper > section {
     padding:10px;
     line-height: 1.5;
 }
+#main {
+ display: grid;
+    grid-template-columns: auto auto auto;
+}
 div.wrapper > main > article {
 }
 div.wrapper > main > article > h1 {
