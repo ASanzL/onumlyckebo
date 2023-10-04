@@ -1,6 +1,15 @@
 {
   "news":[
 	  {
+      "title":"Svampplockning",
+      "content":[
+        {
+          "img":"pepsi_svamp.jpg",
+          "cap":"Pepsi(Chicas son) har varit på svampplockning med lyckat resultat."
+        }
+      ]
+    }
+	  {
       "title":"Valpar",
       "content":[
         {
